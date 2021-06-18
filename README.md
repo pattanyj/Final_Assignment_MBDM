@@ -37,4 +37,5 @@ Supporting functions:
 - problem_formulation_disagr.py
 
 Figures: Folder that contains all figures used in the report
+
 Data: Folder that contains all data for the dike model
