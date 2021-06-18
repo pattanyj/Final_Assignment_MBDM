@@ -19,10 +19,10 @@ Main Jupyter Notebook:
 - Group 13 Final Assignment.ipynb
 - README.md 
 - Results of evaluations/optimizations:
- - results_LHS.tar.gz
- - results_opt_final.tar.gz
- - results_reeval_final.tar.gz
- - results_pol0.tar.gz
+  - results_LHS.tar.gz
+  - results_opt_final.tar.gz
+  - results_reeval_final.tar.gz
+  - results_pol0.tar.gz
 
 Supporting functions:
 - __ init__.py
